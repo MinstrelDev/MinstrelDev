@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./MuAPI.png" width="100%" alt="MuAPI System Splash Screen">
+</p>
+
 # Hi there, I'm MinstrelDev 👋
 
 ### 💻 Junior C# Developer 
