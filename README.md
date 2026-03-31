@@ -16,8 +16,3 @@ Specializing in **Advanced Factory Automation** and System Architecture.
 - **MuAPI Core**: High-performance automation interface engine.
 - **MuAPI_Release**: Stable distribution for production environments.
 - **MuAPI_Updater & Installer**: Seamless deployment and version management system.
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MinstrelDev&show_icons=true&theme=dark&hide_border=true&rank_icon=github&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinstrelDev&layout=compact&theme=dark&hide_border=true)
