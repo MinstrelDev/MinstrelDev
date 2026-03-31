@@ -19,3 +19,5 @@ Specializing in **Advanced Factory Automation** and System Architecture.
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MinstrelDev&show_icons=true&theme=dark&hide_border=true&rank_icon=github&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinstrelDev&layout=compact&theme=dark&hide_border=true)
